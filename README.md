@@ -32,3 +32,9 @@ characters such as commas and dots. Lastly some columns are renamed for better n
 # Correlation Analysis
 The correlation analysis examines the connections between numerical variables, with a heatmap being utlizied to illustrate the correlation
 matrix and pinpoint any significant relationships
+
+# Conclusion
+This analysis offers a comprehensive overview of sugarcane production globally examing metrics across
+various countries and continents. It delves into connections between production-related factors, identifying
+notable patterns and trends in the data. 
+For a deeper dive into the findings, please see the accompanying Jupyter Notebook in this repository
